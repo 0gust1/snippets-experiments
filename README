@@ -1,0 +1,8 @@
+Here you will find some snippets :
+- Several Ant tasks (Java env.) to handle css build operations :
+-- Automatic css generation (based on a directory full of *.png files - icon pack for instance) with a CSS-spriting-friendly annotations
+-- CSS spriting (using smartsprite library)
+
+- Some crude shell snippets
+
+- Some CSS experiments
