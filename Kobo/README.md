@@ -3,14 +3,15 @@ A quick Hack to export bookmarks and notes from the Kobo touch ereader
 
 Disclaimer :
 ------------
-I'm not very command line / bash savvy, it's more a quick and dirty hack to get the thing done
-It's horribly crude, raw and dirty... But I wantted to haw my bookmarks and notes avaiable without installing or launching huge softwares like Calibre or Adobe thing.
+I'm not very command line / bash savvy, it's more a quick and dirty hack to get the thing done.
+
+It's horribly crude, raw and dirty... But I wanted to have my bookmarks and notes avaiable without installing or launching huge softwares like Calibre or Adobe thing.
 
 How to use :
 ------------
 - Connect your Kobo reader to your computer (preferably a linux system or a system with sqlite3 and awk avaiable)
-- Copy the files to /.kobo/
-- from the terminal run export_bookmarks.sh : it will generate a bookmarks.html file 
+- Copy the files to /.kobo/ (hidden folder)
+- from the terminal run export_bookmarks.sh : it will generate a bookmarks.html file ine the /.kobo directory.
 
 Further improvements / ideas :
 -----------------------------
