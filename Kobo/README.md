@@ -13,12 +13,6 @@ How to use :
 - Copy the files to /.kobo/ (hidden folder)
 - from the terminal run export_bookmarks.sh : it will generate a bookmarks.html file ine the /.kobo directory.
 
-TODO :
-------
-Craft a nice SQL request to have better content in the genrated HTMl file (quotes and notes sorted by book)
-Styling of the generated HTMl file
-
-
 Further improvements / ideas :
 -----------------------------
 Actually you have to execute the script from your computer, with the Kobo connected.
