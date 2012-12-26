@@ -5,6 +5,9 @@ Maybe you will find something useful.
 
 A quick script to export bookmarks / notes / annotation from a Kobo ereader (Kobo touch) to a HTML file. 
 
+#Pure Data patches
+A quick patch for syncing pure data to an external midi clock source.
+
 #Ant tasks :
 
 Several Ant tasks (Java env.) to handle css build operations :
